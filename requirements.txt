@@ -1,7 +1,8 @@
 numpy
 pandas
-LinearRegression
-Pipeline
-OneHotEncoder
+scikit-learn
+pandas
+numpy
+streamlit
 joblib
 io
